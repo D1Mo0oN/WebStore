@@ -9,4 +9,6 @@ public class Employee
     public string Patronymic { get; set; }
 
     public int Age { get; set; }
+
+    public int Height { get; set; }
 }
